@@ -1,0 +1,6 @@
+{
+  "name": "HomePilot",
+  "description": "Your Family's Operating System, supporting household chores, bills, medicine schedules, document vaults, approvals, and AI extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
